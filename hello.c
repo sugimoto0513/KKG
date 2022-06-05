@@ -7,4 +7,5 @@ void main() {
     printf("How are you ?\n");
     printf("I am fine\n");
     printf("Oh well\n");
+    printf("0\n")；
 }
